@@ -1,7 +1,7 @@
 
 # 📚 Library Management System — PostgreSQL
 
-<img src="https://socialify.git.ci/Samukelokhathi/CodeTribe-Library-API/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Library Management System" width="640" height="320" />
+<img src="https://socialify.git.ci/Samukelokhathi/Code-Tribe-Library-Management-System-PostgreSQL-/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Code-Tribe-Library-Management-System-PostgreSQL-" width="640" height="320" />
 
 This project focuses on understanding how databases work, creating tables, inserting records, retrieving information, updating data, deleting records, and performing advanced SQL queries.
 ---
